@@ -1,0 +1,24 @@
+.w .MuiButtonBase-root{
+    background-color:rgb(76, 216, 76);
+}
+.w .MuiButtonBase-root:hover{
+    background-color:rgb(152, 128, 9);
+}
+.e .MuiButtonBase-root{
+    background-color:rgb(223, 240, 70);
+}
+.e .MuiButtonBase-root:hover{
+    background-color:rgb(152, 128, 9);
+}
+.f .MuiButtonBase-root{
+    background-color:lightskyblue;
+}
+.f .MuiButtonBase-root:hover{
+    background-color:rgb(66, 9, 152);
+}
+.i .MuiButtonBase-root{
+    background-color:pink;
+}
+.i .MuiButtonBase-root:hover{
+    background-color:rgb(56, 157, 224);
+}

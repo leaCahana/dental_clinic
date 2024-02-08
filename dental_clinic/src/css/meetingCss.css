@@ -1,0 +1,44 @@
+.container-comp{
+    display:flex;
+    display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+  .container{
+      display: inline-block;
+      background-color: rgb(248, 249, 249);
+      border: 2px solid rgb(15, 10, 89);
+      border-radius: 3%;
+      color: rgb(15, 10, 89);
+      padding: 25px;
+      margin: 5px;
+      text-align: center;
+      
+    }
+    
+  .session {
+    display: inline-block;
+    width: 250px; 
+    background-color: rgb(248, 249, 249);
+    border-radius: 3%;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    font-size: large;
+  }
+    .custom-success-icon::before {
+      position: relative;
+      top: 2px; 
+    }
+  
+    .red{
+    color: red;
+    }
+    .orange{
+      color: orange;
+    }
+    .green{
+      color: green;
+    }
+    
+  

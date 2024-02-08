@@ -1,0 +1,7 @@
+.btn .MuiButtonBase-root {
+    background-color: rgb(15, 10, 89) ;
+}
+.btn .MuiButtonBase-root:hover {
+    color:rgb(56, 157, 224) ;
+    background-color: rgb(15, 10, 89) ;
+}
